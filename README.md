@@ -1,3 +1,5 @@
+# JSConf con Gemini 3 Pro
+
 ¡Claro que sí! Aquí tienes una propuesta completa para la landing page de **JSConf España 2026**.
 
 He diseñado la página con una estética moderna, utilizando el clásico amarillo de JavaScript sobre un fondo oscuro (Dark Mode), que es muy popular en la comunidad de desarrollo. Incluye todas las secciones que pediste: el anfitrión (midudev), la agenda, los speakers y una sección especial destacada para el "Social Run".

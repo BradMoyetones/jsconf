@@ -1,5 +1,9 @@
 # JSConf con Gemini 3 Pro
 
+Promt:
+
+>Crea una página web para una conferencia de programación que se llama JSConf España, la JSConf oficial pero en España. Se celebra en Madrid y el organizador y presentador es midudev. Es algun día de 2026. Por ahora pon el 7 de marzo, por decir algo. Que se vea agenda, speakers, y una sección para hablar de un social run que haremos tambien.
+
 ¡Claro que sí! Aquí tienes una propuesta completa para la landing page de **JSConf España 2026**.
 
 He diseñado la página con una estética moderna, utilizando el clásico amarillo de JavaScript sobre un fondo oscuro (Dark Mode), que es muy popular en la comunidad de desarrollo. Incluye todas las secciones que pediste: el anfitrión (midudev), la agenda, los speakers y una sección especial destacada para el "Social Run".
